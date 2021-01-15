@@ -9,7 +9,7 @@ body {
 
     background-color: brown;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    border-radius: 10px;
+    
     margin-top: 20px;
 }
 
@@ -19,24 +19,24 @@ body {
 }
 h1{
     color:white;
-    font-size: 3em;
+    font-size: 1.5rem;
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 header img{
-    float:right;
+    height:auto;
     margin-right: 10px;
     margin-top: 10px;
     border: 1px solid #ccc;
     padding: 0px;
-    box-shadow: 5px 5px 5px #999;
+  
     margin-right:10px;
 }
 hr{
     margin-top: -10px;
 }
 h2{
-    font-size: 2.5em;
+    font-size: 1rem;
 }
 #datemodified{
 text-align: center;
